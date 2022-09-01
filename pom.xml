@@ -114,7 +114,7 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <maven.compiler.source>17</maven.compiler.source>
         <maven.compiler.target>17</maven.compiler.target>
-        <java.version>17</java.version>
+        <java.version>11</java.version>
         <webgoat.port>8080</webgoat.port>
         <webwolf.port>9090</webwolf.port>
 

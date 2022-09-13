@@ -82,6 +82,8 @@ public class WebSecurityConfig extends WebSecurityConfigurerAdapter {
         auth.userDetailsService(userDetailsService);
     }
 
+// this is a comment to test out speed of IDE
+
     @Bean
     @Override
     public UserDetailsService userDetailsServiceBean() throws Exception {
